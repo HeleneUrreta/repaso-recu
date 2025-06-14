@@ -1,0 +1,13 @@
+# Archivos de R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# Datos
+*.csv
+data/
+
+# Temporales
+*.tmp
+*.log
